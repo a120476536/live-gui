@@ -1,0 +1,16 @@
+﻿#requests==2.31.0
+betterproto==2.0.0b6
+websocket-client==1.7.0
+PyExecJS==1.5.1
+mini_racer==0.12.4
+#top  DouyinLiveWebFetcher-main libs https://github.com/saermart/DouyinLiveWebFetcher
+PyQt5==5.15.11
+websockets==15.0.1
+pyserial==3.5
+requests==2.32.3
+edge_tts==7.3.1
+# playsound==1.3.0
+pygame==2.6.1
+python-escpos==3.1
+pyusb==1.2.1          # libusb 直连兜底路径（python-escpos 的 Usb 模式依赖它）
+browser-cookie3==0.20.1   # 从本机浏览器自动提取抖音登录态 Cookie（主页「从浏览器提取」按钮）

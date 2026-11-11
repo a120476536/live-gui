@@ -1,0 +1,17 @@
+/build
+/build_env
+/dist
+/activated.json
+/data
+/venv
+/log
+/mp3
+
+# Python 编译产物（不入库）
+__pycache__/
+*.pyc
+
+# 运行期日志（GUI 拉起 live_server 的输出，不入库）
+live_server_gui.log
+*.log
+/.workbuddy
