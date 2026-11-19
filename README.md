@@ -1,4 +1,5 @@
-# 🎬 直播互动控制器（live-gui） 搭配 https://live.zhengduimen.com/  一块玩 
+# 🎬 直播互动控制器（live-gui） 开源
+
 
 > 基于 PyQt5 的抖音直播实时互动工具 · 支持 Windows / macOS · 本地运行，不依赖远程中转服务器
 
@@ -8,6 +9,13 @@
 
 > 💡 本软件已**移除激活机制**，下载即可直接使用，无需激活码。
 
+---
+> 搭配 https://live.zhengduimen.com/  一块玩 ，邀请码 **DANMAKU2026** 
+
+| 操作流程 |
+<img src="softImg/liveweb/main.png" alt="主界面截图" width="780">
+<img src="softImg/liveweb/2.png" alt="主界面截图" width="780">
+<img src="softImg/liveweb/3.png" alt="主界面截图" width="780">
 ---
 
 ## ✨ 核心功能一览
