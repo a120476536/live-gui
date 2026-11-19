@@ -1,4 +1,4 @@
-# 🎬 直播互动控制器（live-gui）
+# 🎬 直播互动控制器（live-gui） 搭配 https://live.zhengduimen.com/  一块玩 
 
 > 基于 PyQt5 的抖音直播实时互动工具 · 支持 Windows / macOS · 本地运行，不依赖远程中转服务器
 
